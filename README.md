@@ -1,2 +1,2 @@
 # amethyst_mod
-Welocme to my first minecraft mod
+Welcome to my first minecraft mod
