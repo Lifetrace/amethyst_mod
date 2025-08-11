@@ -2,7 +2,7 @@ modLoader="javafml" # не трогаем
 loaderVersion="[36,)" # для Forge 1.16.5 — минимум 36.x
 license="MIT" # или другая твоя лицензия
 [[mods]]
-modId="Amethyst" # modid, должен совпадать с @Mod("amethyst") в твоем коде
+modId="amethyst" # modid, должен совпадать с @Mod("amethyst") в твоем коде
 version="${file.jarVersion}" # Forge подставит из build.gradle → version
 displayName="Amethyst Mod" # красивое имя мода
 authors="Lifetrace"
